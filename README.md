@@ -19,7 +19,8 @@ Whois Slayer ❓
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
 
 </p>
-
+🌐 My Cybersecurity Website 🌐 <br> <br>
+<a href="https://slayer0x.github.io/#"> Blog </a><br> <br>
 📫 How to reach me 📫 <br> <br>
 <a href="mailto:slayernode@gmail.com">Mail</a> <br> <br>
 📝 I’m currently learning 📝 <br> <br>
