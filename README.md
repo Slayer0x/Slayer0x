@@ -24,6 +24,6 @@ Whois Slayer ❓
 📫 How to reach me 📫 <br> <br>
 <a href="mailto:slayernode@gmail.com">Mail</a> <br> <br>
 📝 I’m currently learning 📝 <br> <br>
-**Pentesting & radio frequencies.**  <br> <br>
+Pentesting & radio frequencies.  <br> <br>
 💬 Ask me about  <br> <br>
-**Everything related to Networking and Security.**
+Everything related to Networking and Security.
