@@ -22,7 +22,7 @@ Whois Slayer ❓
 🌐 My Cybersecurity Website 🌐 <br> <br>
 <a href="https://slayer0x.github.io/#"> Blog </a><br> <br>
 📫 How to reach me 📫 <br> <br>
-<a href="mailto:slayernode@gmail.com">Mail</a> <br> <br>
+<a href="mailto:slayer0x@protonmail.com">Mail</a> <br> <br>
 📝 I’m currently learning 📝 <br> <br>
 Cloud Pentesting & Web Hacking. <br> <br>
 💬 Ask me about  <br> <br>
