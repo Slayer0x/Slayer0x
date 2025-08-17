@@ -1,5 +1,5 @@
 <h1 align="left">👽 Slayer Repository AKA Slayer0x 👽</h1>
-<img src="https://img.freepik.com/vector-premium/banner-hacker-e-iconos-datos-fondo-abstracto_436959-482.jpg?w=1800" />
+<img src="https://github.com/user-attachments/assets/4ecf7be7-1972-419f-9635-3eb103db3194" />
 
 Whois Slayer ❓
 <br> <br> **A passionate Red Teamer, actually owning eJPT, eCPPTv2, EWPT, OSCP, OSWP, Hacktricks CRTE, Altered Security CARTP and CRTE.**
@@ -24,6 +24,6 @@ Whois Slayer ❓
 📫 How to reach me 📫 <br> <br>
 <a href="mailto:slayer0x@protonmail.com">Mail</a> <br> <br>
 📝 I’m currently learning 📝 <br> <br>
-Cloud Pentesting & Web Hacking. <br> <br>
+Cloud Pentesting & AI. <br> <br>
 💬 Ask me about  <br> <br>
 Everything related to Networking and Security.
